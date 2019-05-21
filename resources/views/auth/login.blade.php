@@ -48,6 +48,7 @@
                                 </div>
                             </div>
                         </div>
+                        
 
                         <div class="form-group row mb-4">
                             <div class="col-md-8 offset-md-4">
@@ -61,11 +62,11 @@
                             </div>
                         </div>
 
-                        <p class="text-center mb-3">
+                        <!-- <p class="text-center mb-3">
                             Or Login with
                         </p>
 
-                        @include('partials.socials-icons')
+                        @include('partials.socials-icons') -->
 
                     </form>
                 </div>
